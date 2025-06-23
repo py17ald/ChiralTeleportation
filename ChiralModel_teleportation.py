@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 19 11:47:45 2023
-
-@author: aiden
-"""
-
 import numpy.random as rng
 import numpy as np
 import matplotlib.pyplot as plt
