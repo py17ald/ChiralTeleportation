@@ -1,2 +1,2 @@
 # ChiralTeleportation
-Public code teleportation scheme and Lyapunov calculation of the chiral spin-chain
+Public code for teleportation scheme and Lyapunov calculation of the chiral spin-chain
